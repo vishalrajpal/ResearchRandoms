@@ -1,0 +1,10 @@
+
+2nd Nov
+1) A Neural Network for Coordination Boundary Prediction (11:20-11:45) Salon FG
+2) Creating Casual embeddings with minimal supervision (14:05-14:30) Salon FG
+3) Improving Semantic Parsing via Answer Type Inference (14:30-14:55) Salon FG
+3) Jointly Embedding knowledge graphs and logical rules.(14:30-14:55) Salon J
+4) Learning from Explicit and Implicit Supervision Jointly for Algebra Word Problems. (16:40-17:05)
+
+3rd Nov
+
