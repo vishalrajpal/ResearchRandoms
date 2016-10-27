@@ -1,0 +1,6 @@
+- Use Logb10 to get the difference between the frequency of patterns in each label.
+- Use the ratio of currentPatternCount/TotalPatternCount
+- Neighbouring Parts of speech should be different
+- Has AN subpattern
+- Has triplet NVN, EVN
+- Any POS more than 2 should be negative impact
