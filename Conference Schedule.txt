@@ -7,4 +7,7 @@
 4) Learning from Explicit and Implicit Supervision Jointly for Algebra Word Problems. (16:40-17:05)
 
 3rd Nov
-
+1) Equation Parsing : Mapping Sentences to Grounded Equations (10:55-11:20) Salon FG
+2) Understanding Negation in Positive Terms Using Syntactic Dependencies (11:45-12:10) Salon FG
+3) Character-Level Question Answering with Attention. http://www.emnlp2016.net/program/1100.html
+4) Learning to Generate Textual Data (Poster Session) Salon H & J
