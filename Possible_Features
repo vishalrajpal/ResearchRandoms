@@ -4,3 +4,10 @@
 - Has AN subpattern
 - Has triplet NVN, EVN
 - Any POS more than 2 should be negative impact
+
+
+IMPORTANT:
+- If there are negative verbs as sell, eat in the sentence and also in the question sentence, we will make the operators positive. However, if the verb in question sentence is positive, we do not change anything.
+
+if(questionverb is negative)
+  make the negative verbs (lemma) in the sentence positive and return the equation.
