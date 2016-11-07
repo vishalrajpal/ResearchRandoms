@@ -11,3 +11,6 @@ IMPORTANT:
 
 if(questionverb is negative)
   make the negative verbs (lemma) in the sentence positive and return the equation.
+  
+- If subject in sentence is same as subject in question (Mike), make the positive in the sentence with different subject(Sam) as negative.
+Mike has 5 apples. Same bought 3 from Mike. How many apples does Mike have now?
