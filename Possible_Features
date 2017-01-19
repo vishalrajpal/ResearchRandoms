@@ -1,0 +1,16 @@
+- Use Logb10 to get the difference between the frequency of patterns in each label.
+- Use the ratio of currentPatternCount/TotalPatternCount
+- Neighbouring Parts of speech should be different
+- Has AN subpattern
+- Has triplet NVN, EVN
+- Any POS more than 2 should be negative impact
+
+
+IMPORTANT:
+- If there are negative verbs as sell, eat in the sentence and also in the question sentence, we will make the operators positive. However, if the verb in question sentence is positive, we do not change anything.
+
+if(questionverb is negative)
+  make the negative verbs (lemma) in the sentence positive and return the equation.
+  
+- If subject in sentence is same as subject in question (Mike), make the positive in the sentence with different subject(Sam) as negative.
+Mike has 5 apples. Same bought 3 from Mike. How many apples does Mike have now?
